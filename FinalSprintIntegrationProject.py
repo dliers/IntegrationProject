@@ -9,6 +9,7 @@
 # for that top or bottom of the inning
 # As the code continues it will go more into detail and will be able to
 # mess around you as a hitter
+# Note this was my very first ever python project so this only shows very basic programming and is not very clean and clear.
 # Sources: w3schools
 
 
